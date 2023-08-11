@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Registration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Registration_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Registration.jar">
+        <element id="module-output" name="Registration" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../../../Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.32.jar" />
+    </root>
+  </artifact>
+</component>
